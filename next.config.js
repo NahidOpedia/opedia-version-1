@@ -4,8 +4,8 @@ module.exports = {
         disableStaticImages: false,
         domains: ["admin.opediatech.com"],
     },
-    i18n: {
-        locales: ["en"],
-        defaultLocale: "en",
-    },
+    // i18n: {
+    //     locales: ["en"],
+    //     defaultLocale: "en",
+    // },
 };
