@@ -7,7 +7,7 @@ import Meta from '../components/Meta'
 export default function sitemap({categories,trainings}) {
 
   return (
-    <>
+    <div>
         <Meta seo_title="Sitemap - Opedia Technologies Limited" description="To know all about us from one place visit our HTML Sitemap page. Call now on + 8801978159172" />
     <div className="html-sitemap mt-5 mb-5">
             <div className='container'>
@@ -92,7 +92,7 @@ export default function sitemap({categories,trainings}) {
         
     </div>
     </div>
-    </>
+    </div>
   )
 }
 
