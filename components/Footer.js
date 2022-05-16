@@ -270,9 +270,9 @@ export default function Footer() {
                     © Opedia Technologies 2022 All rights reserved.
                   </p>
                   <div className="terms-and-condition">
-                  <Link href="/sitemap">
+                  {/* <Link href="/sitemap">
                       <a> Sitemap</a>
-                    </Link>
+                    </Link> */}
                     <Link href="/termsCondition">
                       <a> Terms of Use</a>
                     </Link>
